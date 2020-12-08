@@ -988,11 +988,12 @@ a.faq-button:hover {
 }
 
 .team-content {
+    padding: 20px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
     gap: 25px 45px;
-    grid-template-areas: "all-members01 all-members02 all-members03 all-members04" "all-members05 all-members06 all-members07 all-members08" "all-members09 all-members10 all-members11 all-members12" "all-members13 all-members14 all-members15 all-members16" "all-members17 all-members18 all-members19 all-members20" "all-members20 all-members20";
+    grid-template-areas: "all-members01 all-members02 all-members03 all-members04" "all-members05 all-members06 all-members07 all-members08" "all-members09 all-members10 all-members11 all-members12" "all-members13 all-members14 all-members15 all-members16" "all-members17 all-members18 all-members19 all-members20" "all-members21 all-members22";
 }
 
 #all-members01 {
@@ -1195,6 +1196,26 @@ a.faq-button:hover {
     border: 1px solid rgba(187, 187, 187, 0.637);
 }
 
+#all-members21 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members22 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
 a.team-social-link {
     text-decoration: none;
 }
@@ -1261,11 +1282,12 @@ h4.team-role {
         margin-top: 30px;
     }
     .team-content {
+        padding: 0px;
         display: grid;
         grid-template-columns: 1fr 1fr;
-        grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
         gap: 15px 10px;
-        grid-template-areas: "#all-members01 #all-members02" "#all-members03 #all-members04" "#all-members05 #all-members06" "#all-members07 #all-members08" "#all-members09 #all-members10" "#all-members11 #all-members12" "#all-members13 #all-members14" "#all-members15 #all-members16" "#all-members17 #all-members18" "#all-members19 #all-members20"
+        grid-template-areas: "#all-members01 #all-members02" "#all-members03 #all-members04" "#all-members05 #all-members06" "#all-members07 #all-members08" "#all-members09 #all-members10" "#all-members11 #all-members12" "#all-members13 #all-members14" "#all-members15 #all-members16" "#all-members17 #all-members18" "#all-members19 #all-members20" "#all-members21 #all-members22"
     }
     .member-name {
         font-size: 14px;
