@@ -970,3 +970,311 @@ a.faq-button:hover {
         margin-left: 10px;
     }
 }
+
+
+/* -------------------- Team Page Starts---------------------- */
+
+.member-photo {
+    height: 100px;
+    border-radius: 50px;
+}
+
+.members-section {
+    padding: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    align-items: center!important;
+    align-items: center!important;
+}
+
+.team-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 25px 45px;
+    grid-template-areas: "all-members01 all-members02 all-members03 all-members04" "all-members05 all-members06 all-members07 all-members08" "all-members09 all-members10 all-members11 all-members12" "all-members13 all-members14 all-members15 all-members16" "all-members17 all-members18 all-members19 all-members20" "all-members20 all-members20";
+}
+
+#all-members01 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members02 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members03 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members04 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members05 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members06 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members07 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members08 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members09 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members10 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members11 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members12 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members13 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members14 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members15 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members16 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members17 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members18 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members19 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+#all-members20 {
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+    text-align: center;
+    padding: 18px;
+    border-radius: 6px;
+    border: 1px solid rgba(187, 187, 187, 0.637);
+}
+
+a.team-social-link {
+    text-decoration: none;
+}
+
+.team-twitter:hover {
+    background-color: rgba(204, 204, 204, 0.397);
+    border-radius: 50px;
+}
+
+.team-linkedin:hover {
+    background-color: rgba(204, 204, 204, 0.397);
+    border-radius: 50px;
+}
+
+.team-github:hover {
+    background-color: rgba(204, 204, 204, 0.397);
+    border-radius: 50px;
+}
+
+.team-twitter {
+    height: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 6px;
+}
+
+.team-linkedin {
+    height: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 6px;
+}
+
+.team-github {
+    height: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 6px;
+}
+
+.member-social {
+    margin-top: 5px;
+}
+
+.member-name {
+    font-size: 17px;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+h4.team-role {
+    font-size: 13px;
+    font-weight: 400;
+    margin-top: -17px;
+}
+
+@media only screen and (max-width: 650px) {
+    .members-section {
+        padding: 10px;
+        margin-left: 5px;
+        margin-right: 5px;
+        align-items: center!important;
+        align-items: center!important;
+        margin-top: 30px;
+    }
+    .team-content {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+        gap: 15px 10px;
+        grid-template-areas: "#all-members01 #all-members02" "#all-members03 #all-members04" "#all-members05 #all-members06" "#all-members07 #all-members08" "#all-members09 #all-members10" "#all-members11 #all-members12" "#all-members13 #all-members14" "#all-members15 #all-members16" "#all-members17 #all-members18" "#all-members19 #all-members20"
+    }
+    .member-name {
+        font-size: 14px;
+        font-weight: 500;
+        margin-top: 5px;
+    }
+    h4.team-role {
+        font-size: 12px;
+        font-weight: 400;
+        margin-top: -17px;
+    }
+}
